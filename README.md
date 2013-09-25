@@ -16,7 +16,7 @@ Set the parameters:
 
 | Name | Value |
 |------|-------|
-| webauth.url_for_login | http://<server_url>/index.php/login |
-| webauth.url_for_logout | http://<server_url>/index.php/logout |
-| webauth.url_for_check | https://<server_url>/index.php/check |
-| webauth.bypass_ip_check | true |
+| webauth.url_for_login | `http://<server_url>/index.php/login` |
+| webauth.url_for_logout | `http://<server_url>/index.php/logout` |
+| webauth.url_for_check | `https://<server_url>/index.php/check` |
+| webauth.bypass_ip_check | `true` |
